@@ -1,0 +1,5 @@
+build
+kernel.img
+kernel.ld
+kernel.list
+kernel.map
